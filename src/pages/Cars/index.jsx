@@ -100,8 +100,9 @@ function Cars() {
                     <option hidden>Jumlah Penumpang</option>
                     <option value="1">1 orang</option>
                     <option value="2">2 orang</option>
-                    <option value="4">3 orang</option>
-                    <option value="5">4 orang</option>
+                    <option value="3">3 orang</option>
+                    <option value="4">4 orang</option>
+                    <option value="5">5 orang</option>
                     <option value="6">6 orang</option>
                   </select>
                 </div>
