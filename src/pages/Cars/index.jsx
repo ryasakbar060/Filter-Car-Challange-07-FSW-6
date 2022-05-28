@@ -1,7 +1,4 @@
-// import React from 'react';
-// import CardCars from '../../components/CardCars';
 import NavigationBar from '../../components/NavigationBar';
-// import MainHero from '../../components/Main';
 import FooterApp from '../../components/Footer';
 import React, { useState, useRef, useEffect } from 'react';
 import { Row, Col, Container, Card, Button } from 'react-bootstrap';
