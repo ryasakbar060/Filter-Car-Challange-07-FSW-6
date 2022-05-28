@@ -21,11 +21,6 @@ function Cars() {
       console.log(data);
       console.log(response);
 
-      // const time = response;
-
-      // const dateTime = new Date(`${availableAtDate.current.value} ${availableAtTime.current.value}`);
-
-      //assign response data to state "posts"
       const filterCars = await data.filter((car) => car.capacity == capacity.current.value);
       console.log(filterCars);
       setCars(filterCars);
